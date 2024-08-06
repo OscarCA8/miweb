@@ -1,0 +1,41 @@
+[33mcommit ca86bb3324e530041c70d2686652c68d647d8d2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: OscarCA8 <oicarrasco@miuandes.cl>
+Date:   Tue Aug 6 00:00:35 2024 -0400
+
+    mostrando status corto
+
+[33mcommit 011984668cb1967081fa4cdf31cba4536b87d98b[m
+Author: OscarCA8 <oicarrasco@miuandes.cl>
+Date:   Mon Aug 5 23:56:46 2024 -0400
+
+    omitiendo env
+
+[33mcommit 6fa324fca8ced2e09f9dc26ee613ade0b59bdaab[m
+Author: OscarCA8 <oicarrasco@miuandes.cl>
+Date:   Mon Aug 5 23:50:07 2024 -0400
+
+    agregando archivo gitignore
+
+[33mcommit d5e6b4700e3bd292a5404a2dbef41ede498749eb[m
+Author: OscarCA8 <oicarrasco@miuandes.cl>
+Date:   Mon Aug 5 23:39:38 2024 -0400
+
+    Devolviendo el nombre del archivo
+
+[33mcommit 97a2f1ab56c7fe6942823868587397b9a25fc1d1[m
+Author: OscarCA8 <oicarrasco@miuandes.cl>
+Date:   Mon Aug 5 23:38:16 2024 -0400
+
+    renombrando archivo
+
+[33mcommit e65ebd7eb5f896f4f15f21afbd7ecbfddb767718[m
+Author: OscarCA8 <oicarrasco@miuandes.cl>
+Date:   Mon Aug 5 23:34:12 2024 -0400
+
+    Eliminando archivo 2
+
+[33mcommit 054cb6f474964bc4fb79fdde5720bba3d1c2eb26[m
+Author: OscarCA8 <oicarrasco@miuandes.cl>
+Date:   Mon Aug 5 23:25:37 2024 -0400
+
+    Commit inicial
